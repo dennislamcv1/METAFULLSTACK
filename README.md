@@ -1,5 +1,5 @@
 # METAFULLSTACK
-## Meta Full-Stack Developer Specialization (10 course series)
+## Meta Full Stack Developer: Front-End & Back-End from Scratch Specialization (10 course series)
 
 
 
